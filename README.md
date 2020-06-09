@@ -23,6 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+<video src="production ID_4052876.mp4" width="320" height="200" controls preload></video>
+
 [Link](url) and ![Image](src)
 ```
 
